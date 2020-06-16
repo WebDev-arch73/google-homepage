@@ -1,0 +1,1 @@
+This the first Odin Project. The goal here is to recreate the Google homepage with a search box.
